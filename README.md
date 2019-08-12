@@ -1,7 +1,7 @@
 Example tool for cleaning up untrusted kubeconfig files.
 Implements a simple approach, and while it can be used to check kubeconfig files, it's not particularly practical.
 
-In it current state it mainly serves as an illustration for a blog post about [The dark side of sharing kubeconfig files](https://banzaicloud.com/blog/kubeconfig-security/)
+In its current state it mainly serves as an illustration for a blog post about [The dark side of sharing kubeconfig files](https://banzaicloud.com/blog/kubeconfig-security/)
 
 We are happy to discuss the idea and the issue.
 
